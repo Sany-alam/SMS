@@ -1,0 +1,5 @@
+1 : add = git add .
+2 : commit = git commit -m 'write the meassage'
+3 : push = git push -u
+
+thats it to update git! for confirmatio use the "git status" or "git log" or "git log --oneline"
