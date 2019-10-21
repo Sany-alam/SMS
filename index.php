@@ -49,6 +49,7 @@
 		</div>
 		<div class="col-6" id="showdetail"></div>
 	</div>
+	<h1 class="text-center">Added to github!</h1>
 </body>
 <script type="text/javascript">
 	function showresult()
