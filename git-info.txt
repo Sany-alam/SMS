@@ -3,3 +3,4 @@
 3 : push = git push -u
 
 thats it to update git! for confirmatio use the "git status" or "git log" or "git log --oneline"
+commited by local branch
